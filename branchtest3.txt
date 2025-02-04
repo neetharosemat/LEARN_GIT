@@ -1,1 +1,2 @@
 new file added for branch test 3
+changed the file inside folder now
